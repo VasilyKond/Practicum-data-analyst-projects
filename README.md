@@ -1,2 +1,2 @@
-# Praktikum
-Projects from yandex studying data analytics
+# Prakticum_data_analys_projects
+В данном репозитории представлены проекты выполненные в рамках обучения по программа "Аналитик данных" в Яндекс Практикуме.
