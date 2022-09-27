@@ -10,4 +10,5 @@
 | :---------------------- | :---------------------- | :---------------------- |
 | [Ненужные вещи](app_unnecessary_things) | Проект по изучению аудитории мобильного приложения и выделению пользователей на основе их поведения. Дашборд в Tableau. | *pandas*, *matplotlib.pyplot*, *seaborn*, *numpy*, *datetime*, *math*, *stats* |
 | [A/B-тест](ABtest) | Проект по оценке результатов А/B-теста | *pandas*, *matplotlib.pyplot*, *seaborn*, *numpy*, *plotly*, *datetime*, *math*, *stats* |
+| [Объявления о продаже квартир](Spb_apartments) | Анализ объявлений о продаже квартир с Яндекс.Недвижимость в Санкт-Петербурге | *pandas*, *matplotlib.pyplot*|
 
