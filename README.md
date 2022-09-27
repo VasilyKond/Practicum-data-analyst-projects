@@ -21,6 +21,7 @@
 
 | Название проекта | Описание | Используемые библиотеки | 
 | :---------------------- | :---------------------- | :---------------------- |
-| [A/B-тест](ABtest) | Проект по оценке результатов А/B-теста | *pandas*, *matplotlib.pyplot*, *seaborn*, *numpy*, *plotly*, *datetime*, *math*, *stats* |
 | [Ненужные вещи](app_unnecessary_things) | Проект по изучению аудитории мобильного приложения и выделению пользователей на основе их поведения | *pandas*, *matplotlib.pyplot*, *seaborn*, *numpy*, *datetime*, *math*, *stats* |
+
+| [A/B-тест](ABtest) | Проект по оценке результатов А/B-теста | *pandas*, *matplotlib.pyplot*, *seaborn*, *numpy*, *plotly*, *datetime*, *math*, *stats* |
 
