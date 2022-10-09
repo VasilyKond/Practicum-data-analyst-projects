@@ -12,4 +12,4 @@
 | [Ненужные вещи](app_unnecessary_things) | Проект по изучению аудитории мобильного приложения и выделению пользователей на основе их поведения. Дашборд в Tableau. | *pandas*, *matplotlib.pyplot*, *seaborn*, *numpy*, *datetime*, *math*, *stats* |
 | [A/B-тест](ABtest) | Проект по оценке результатов А/B-теста | *pandas*, *matplotlib.pyplot*, *seaborn*, *numpy*, *plotly*, *datetime*, *math*, *stats* |
 | [Сервис для чтения книг](sql_books) | Проект по SQL. Анализ различных параметров сервиса для чтения книг с помощью sql запросов| *pandas*, *sqlalchemy*, *PostgreSQL* |
-| [Стартап по продаже продуктов питания](startup_sale_food) | Проект по изучению логов событий мобильного приложения и принятию решения о новом шрифте приложения на основе А/В-теста | *pandas*, *scipy*, *plotly*, *matplotlib.pyplot*, *seaborn*, *numpy*, *datetime*, *math*|
+| [Стартап по продаже продуктов питания](startup_sale_food) | Проект по изучению логов событий мобильного приложения и принятию решения о новом шрифте приложения на основе А/А/В-теста | *pandas*, *scipy*, *plotly*, *matplotlib.pyplot*, *seaborn*, *numpy*, *datetime*, *math*|
